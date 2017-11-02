@@ -14,7 +14,7 @@ def pierwsze_funkcyjna(n):
                 return False
         return True
 
-    numerki = range(2, n + 1)
+    numerki = range(2,  n + 1)
     pierwsze = filter(foo, numerki)
     return pierwsze
 
