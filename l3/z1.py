@@ -19,5 +19,5 @@ def pierwsze_funkcyjna(n):
     return pierwsze
 
 
-print (pierwsze_skladana(l))
-print (pierwsze_funkcyjna(l))
+#print (pierwsze_skladana(l))
+#print (pierwsze_funkcyjna(l))

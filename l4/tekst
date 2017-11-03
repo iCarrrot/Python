@@ -1,0 +1,5 @@
+Zaprogramuj1 iterator który przetwarza strumień tekstowy i zwraca
+kolejne słowa z tekstu (dla utrudnienia uwzględnij dzielenie słów na końcach wier-
+szy), pomijając białe znaki i znaki interpunkcyjne. Korzystając z tej implementacji
+zaprogramuj obliczanie statystyki długości słów w tekście, tj. ile jest słów długości
+1, ile długości 2 etc.
